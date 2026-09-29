@@ -7,6 +7,9 @@
 (mne_demo_env) C:\Users\74453>pip install jupyter
 (mne_demo_env) C:\Users\74453>pip install PyQt5
 (mne_demo_env) C:\Users\74453>pip install scikit-learn
+(mne_demo_env) C:\Users\74453>pip install pyvistaqt
+(mne_demo_env) C:\Users\74453>pip install pyvista trame trame-vtk trame-pyvista
+
 
 ```
 
